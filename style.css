@@ -1,0 +1,33 @@
+body{
+    font-family: arial, sans-serif;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.container{
+    background-color: yellowgreen;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button{
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: blueviolet;
+    color: red;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: darkorange;
+}
