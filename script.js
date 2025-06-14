@@ -16,9 +16,6 @@ a funçao somar() serve para:
 */
 
 function somar(){
-
-
-
 /*
     document.getElementById("valor1"): acessa o input com ID valor1
     .value: pega o valor que o usuario digitou (vem como texto, mesmo que o usuario digite um numero)
@@ -29,9 +26,6 @@ function somar(){
 // pegamos os valores dos inputs como texto e convertemos para numero
 let v1 = parseFloat(document.getElementById("valor1").value);
 let v2 = parseFloat(document.getElementById("valor2").value);
-
-
-
 
 /*
 aqui fazemos uma verificaçao
