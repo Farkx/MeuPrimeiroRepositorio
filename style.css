@@ -5,12 +5,12 @@ body{
 }
 
 .container{
-    background-color: yellowgreen;
+    background-color: rgb(53, 50, 205);
     padding: 30px;
     border-radius: 10px;
     max-width: 600px;
     margin: auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(139, 35, 35, 0.1);
 }
 
 input, button{
